@@ -1,4 +1,4 @@
-# Neural_Netwok_Ploter
+# Neural_Netwok_Plotter
 Customizable neural network plot
 
 Com esse script, você pode criar uma representação gráfica de sua rede neural, com os neurônios, camadas e ligações entre camadas.
