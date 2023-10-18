@@ -1,5 +1,5 @@
 # Neural_Netwok_Plotter
-Customizable neural network plot
+Customizable neural network plotter
 
 Com esse script, você pode criar uma representação gráfica de sua rede neural, com os neurônios, camadas e ligações entre camadas.
 O objetivo do projeto é auxiliar em uma rápida criação de imagens assim para maior agilidade em criação de documentações de projetos que as usam.
