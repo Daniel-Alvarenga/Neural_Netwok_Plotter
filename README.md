@@ -4,7 +4,7 @@ Customizable neural network plotter
 Com esse script, você pode criar uma representação gráfica de sua rede neural, com os neurônios, camadas e ligações entre camadas.
 O objetivo do projeto é auxiliar em uma rápida criação de imagens assim para maior agilidade em criação de documentações de projetos que as usam.
 O funcionamento é relativamente simples, onde se usa a biblioteca networkx para criação do grafo, e cálculos simples para criar posições adequadas para cada neurônio.
-A imagem é por fim passada para um objeto matplotlib e salva na pasta de images com um nome descritivo com base na quantidade de neurônios de cada camada.
+A imagem é por fim passada para um objeto matplotlib e salva na pasta de images com um nome descritivo com base na quantidade de neurônios de cada camada, evitando que imagens anteriores sejam sobrescritas.
 
 <p align="center">
   <img src="https://github.com/Daniel-Alvarenga/Neural_Netwok_Plotter/assets/128755697/deabf8f4-e1cd-4902-9999-2196475c60e6"/>
